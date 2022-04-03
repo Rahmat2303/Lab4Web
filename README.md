@@ -50,7 +50,7 @@ home.html, dan file css dengan nama style.css.
 Pada file home.html ketikan tag HTML sebagai berikut.
 Pada tag `<body>` tambahkan tag `<div>`dengan ID Container.
 
-![Gambar 10](screenshot2/ss1a.png)
+![Gambar 10](../ss1a.png)
 
 Kemudian tuliskan kode berikut.
 
@@ -171,7 +171,7 @@ JAWAB :
 
 Kemudian isi file HTML tadi dengan kodingan ini.
 
-`<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -222,11 +222,11 @@ Kemudian isi file HTML tadi dengan kodingan ini.
         </footer>
     </div>
 </body>
-</html>`
+</html>
 
 Dan tambahkan CSS seperti dibawah ini.
 
-`/* import google font */
+/* import google font */
 @import 
 url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
 @import 
@@ -348,7 +348,7 @@ footer {
     background-color:#1d1d1d;
     padding:20px;
     color:#eee;
-}`
+}
 
 Ini tampilannya di browser.
 
