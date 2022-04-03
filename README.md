@@ -50,7 +50,7 @@ home.html, dan file css dengan nama style.css.
 Pada file home.html ketikan tag HTML sebagai berikut.
 Pada tag `<body>` tambahkan tag `<div>`dengan ID Container.
 
-![Gambar 10](../ss1a.png)
+![Gambar 10](lab4_layout/screenshot2/ss1a.png)
 
 Kemudian tuliskan kode berikut.
 
