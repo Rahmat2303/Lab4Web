@@ -1,6 +1,6 @@
 # Lab 4 Web
 ## Web Layout
-### Membuat Box Element
+### 1. Membuat Box Element
 
 Buat file dengan nama lab4_box.html, kemudian ketik struktur tag HTML berikut.
 
@@ -22,7 +22,7 @@ Ini tampilannya di browser.
 
 ![Gambar 5](screenshot1/ss1e.png)
 
-# Mengatur Clearfix Element
+### 2. Mengatur Clearfix Element
 
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk 
 mengaturnya.
@@ -42,7 +42,7 @@ Jika nilai property clear diganti dengan both, maka tampilannya akan sama dengan
 
 ![Gambar 9](screenshot1/ss2d.png)
 
-# Membuat Layout Sederhana
+### 3. Membuat Layout Sederhana
 
 Pertama-tama yaitu buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama 
 home.html, dan file css dengan nama style.css.
@@ -72,7 +72,7 @@ Ini tampilannya di browser.
 
 ![Gambar 15](lab4_layout/screenshot2/ss1f.png)
 
-# Membuat Navigasi
+### 4. Membuat Navigasi
 
 Tambahkan kode berikut pada file CSS.
 
@@ -82,7 +82,7 @@ Ini tampilannya di browser.
 
 ![Gambar 17](lab4_layout/screenshot2/ss2b.png)
 
-# Membuat Hero Panel
+### 5. Membuat Hero Panel
 
 Untuk menambahkan hero panel gunakan tag `<section>` dengan ID hero pada tag `<div>` dengan ID Container.
 
@@ -96,7 +96,7 @@ Ini tampilannya di browser.
 
 ![Gambar 20](lab4_layout/screenshot2/ss3c.png)
 
-# Mengatur Layout Main dan Sidebar
+### 6. Mengatur Layout Main dan Sidebar
 
 Tambahkan CSS float.
 
@@ -114,7 +114,7 @@ Ini tampilannya di browser.
 
 ![Gambar 24](lab4_layout/screenshot2/ss4c.png)
 
-# Mengatur Footer
+### 7. Mengatur Footer
 
 Tambahkan CSS sebagai berikut.
 
@@ -124,7 +124,7 @@ Ini tampilannya di browser.
 
 ![Gambar 26](lab4_layout/screenshot2/ss5b.png)
 
-# Menambahkan Elemen lainnya pada Main Content
+### 8. Menambahkan Elemen lainnya pada Main Content
 
 Tambahkan tag-tag HTML sebagai berikut.
 
@@ -140,7 +140,7 @@ Ini tampilannya di browser.
 
 ![Gambar 30](lab4_layout/screenshot2/ss6c.png)
 
-# Menambahkan Content Artikel
+### 9. Menambahkan Content Artikel
 
 Tambahkan HTML sebagai berikut.
 
@@ -154,18 +154,18 @@ Ini tampilannya di browser.
 
 ![Gambar 33](lab4_layout/screenshot2/ss7c.png)
 
-## Pertanyaan dan Tugas
-1. Tambahkan Layout untuk menu About
+## 10. Pertanyaan dan Tugas
+### 1. Tambahkan Layout untuk menu About
 
 => buat single layout yang berisi deskripsi, portfolio, dll
 
-2. Tambahkan layout untuk menu Contact
+### 2. Tambahkan layout untuk menu Contact
 
 => yang berisi form isian: nama, email, message, dll
 
 JAWAB :
 
-1. Untuk menambahkan layout pada menu About yang berisi deskripsi dan portofolio, buat file HTML dengan nama about.html dan buat file CSS dengan nama styleAbout.css seperti berikut.
+### 1. Untuk menambahkan layout pada menu About yang berisi deskripsi dan portofolio, buat file HTML dengan nama about.html dan buat file CSS dengan nama styleAbout.css seperti berikut.
 
 ![Gambar 34](lab4_layout/screenshot2/ss8a.png)
 
@@ -188,7 +188,7 @@ Ini tampilannya di browser.
 
 Ketika di klik pada menu About, akan muncul seperti diatas.
 
-2. Untuk menambahkan layout pada menu Contact yang berisi form isian, buat file HTML dengan nama kontak.html dan buat file CSS dengan nama styleKontak.css seperti berikut.
+### 2. Untuk menambahkan layout pada menu Contact yang berisi form isian, buat file HTML dengan nama kontak.html dan buat file CSS dengan nama styleKontak.css seperti berikut.
 
 ![Gambar 43](lab4_layout/screenshot2/ss10a.png)
 
