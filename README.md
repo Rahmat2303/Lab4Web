@@ -1,6 +1,6 @@
-### Lab 4 Web
+# Lab 4 Web
 ## Web Layout
-# Membuat Box Element
+### Membuat Box Element
 
 Buat file dengan nama lab4_box.html, kemudian ketik struktur tag HTML berikut.
 
