@@ -201,6 +201,7 @@ Dan tambahkan CSS seperti dibawah.
 
 ![Gambar 46](lab4_layout/screenshot2/ss10e.png)
 ![Gambar 47](lab4_layout/screenshot2/ss10f.png)
+
 ![Gambar 48](lab4_layout/screenshot2/ss10g.png)
 ![Gambar 49](lab4_layout/screenshot2/ss10h.png)
 
